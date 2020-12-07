@@ -1,0 +1,22 @@
+body
+{
+	background: darkred;
+	text-align: center;
+}
+#player1{
+	margin-left: 340px;
+}
+#player2{
+	margin-left: 340px;
+}
+#name1{
+	margin-left: 20px;
+	display: inline-block;
+}
+#name2{
+	margin-left: 20px;
+	display: inline-block;
+}
+#head{
+	color: darkseagreen;
+}
